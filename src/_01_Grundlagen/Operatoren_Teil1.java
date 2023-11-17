@@ -20,6 +20,8 @@ public class Operatoren_Teil1 {
 		System.out.println(zahl1 + " * " + zahl2 + " = " + (zahl1*zahl2));
 		System.out.println("\tDivision '/'");
 		System.out.println(zahl1 + " / " + zahl2 + " = " + (zahl1/zahl2));
+		System.out.println("\tModulo'%'");
+		System.out.println(zahl1 + " % " + zahl2 + " = " + (zahl1%zahl2));
 		System.out.println("\tInkrementieren'++'");
 		System.out.print(zahl + "++" + " = ");
 		zahl++;
