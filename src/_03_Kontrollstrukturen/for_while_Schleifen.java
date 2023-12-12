@@ -1,4 +1,4 @@
-package Kontrollstrukturen;
+package _03_Kontrollstrukturen;
 
 public class for_while_Schleifen {
 

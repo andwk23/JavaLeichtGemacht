@@ -1,4 +1,4 @@
-package Kontrollstrukturen;
+package _03_Kontrollstrukturen;
 
 import java.util.Scanner;
 
